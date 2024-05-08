@@ -1,1 +1,13 @@
-# aes-side-channel-attack
+# AES xtime() Differential Timing Attack
+
+Developed as a module assignment @ The University of Birmingham (LH Security of Real World Systems)
+
+**The aes executable and a part of the timing.py code has been supplied by the module staff.**
+
+##To run the attack:
+- python3 timing.py 
+(will output the AES-128 key)
+**OR**
+- python3 timing_debugged.py
+(will output the AES-128 key with debugs along the way)
+
