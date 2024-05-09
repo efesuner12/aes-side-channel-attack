@@ -7,7 +7,7 @@ Developed as a module assignment @ The University of Birmingham (LH Security of 
 ## To run the attack:
 - **python3 timing.py** <br />
 (will output the AES-128 ECB key used in the executable) <br />
-**OR** <br />
+<br />**OR** <br />
 - **python3 timing_debugged.py** <br />
 (will output the AES-128 ECB key used in the executable and debug the attack code)
 
